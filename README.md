@@ -2,4 +2,4 @@
 💻 Senior Software Engineer (.Net C#) <br />
 🏐 Senior Volleyball player <br />
 🏋️ Junior Crossfit Athlete <br />
-📫 tlg: ifowzy
+📫 tlg: se_iliajan
